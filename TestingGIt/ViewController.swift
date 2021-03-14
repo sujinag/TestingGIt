@@ -13,6 +13,7 @@ class ViewController: UIViewController {
         
         super.viewDidLoad()
         self.view.backgroundColor = .green
+        print("sujeet")
         // Do any additional setup after loading the view.
     }
 
